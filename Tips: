@@ -1,0 +1,5 @@
+Use google colab as normal code editors might crash
+Change Runtime to GPU
+Request access for the LLama model in hugging face.
+Create a token in "Read" mode....and use this token for the login when prompted
+Do not forget to train the model as neglecting it may cause the model to produce general answers
